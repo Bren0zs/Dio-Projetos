@@ -33,4 +33,17 @@ https://www.youtube.com/watch?v=DEbyaW90CwU
 https://www.youtube.com/watch?v=mVAMBkuwICE
 
 https://www.youtube.com/watch?v=pYP7OGTdYY8
+
 ----------------------------------------------------------------------------------
+Prompts utilizados:
+“Quem foi Nikola Tesla e quais foram suas principais contribuições?”
+“Explique os conceitos de energia, frequência e vibração atribuídos a Tesla.”
+“Quais ideias de Tesla são consideradas avançadas para sua época?”
+“Resuma as principais invenções de Nikola Tesla de forma simples.”
+“Existe base científica nos conceitos espirituais atribuídos a Tesla?”
+
+ Dificuldades encontradas :
+Algumas fontes misturam ciência com interpretações espirituais;
+Foi necessário filtrar informações para separar fatos históricos de crenças e achismos populares;
+
+
