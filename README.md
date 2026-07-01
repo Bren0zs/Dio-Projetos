@@ -2,6 +2,9 @@
 Aqui será o meu repositório de projetos feitos ao longo de todos os meus cursos.
 
 Projeto-NotebookLM
+
+LINK DO NOTEBOOKLM: https://notebooklm.google.com/notebook/27cec658-9de1-4081-8b28-7f952d750eec
+
 1- Para começar o projeto, dei início à minha pesquisa interna, busquei uma das minhas maiores curiosidades para por no papel; Decidi então, criar uma segunda mente, a mente de Nikola Tesla. Sempre tive muita curiosidade sobre seus pensamentos, sua mente e seus feitos. Então a partir desse projeto, busco satisfazer todas minhas dúvidas e por fim descobrir o porquê de Nikola Tesla possuir pensamentos que cativam até mesmo os dias de hoje.
 
 2- comecei pesquisando algumas fontes, aqui estão elas:
